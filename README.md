@@ -42,6 +42,18 @@ Incluye CRUD completo (crear, listar, editar, borrar), **buscador**, **filtros**
 5. Abre la app:
    - `http://localhost/game-ranking-php/src/`
 
+## Screenshots
+
+### Ranking dashboard
+![Ranking](screenshots/home.png)
+
+### Añadir juego
+![Add](screenshots/add.png)
+
+### Base de datos MariaDB
+![Database](screenshots/database.png)
+
+
 ## Roadmap (mejoras futuras)
 - Login (acceso privado)
 - Subida de portadas por juego
