@@ -50,10 +50,6 @@ Incluye CRUD completo (crear, listar, editar, borrar), **buscador**, **filtros**
 ### Añadir juego
 ![Add](screenshots/add.png)
 
-### Base de datos MariaDB
-![Database](screenshots/database.png)
-
-
 ## Roadmap (mejoras futuras)
 - Login (acceso privado)
 - Subida de portadas por juego
